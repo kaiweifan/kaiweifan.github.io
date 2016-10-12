@@ -1,0 +1,13 @@
+.publication .author {
+  font-style: italic;
+  font-weight: 300;
+}
+
+.publication .title {
+  font-weight: 400;
+}
+
+.publication .publisher {
+  font-size: 0.9em;
+  font-weight: 300;
+}
